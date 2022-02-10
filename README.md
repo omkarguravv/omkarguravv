@@ -6,6 +6,10 @@
 
 - 🌱 I’m currently learning *Web Development & Exploring Open Source*
 
+- ⚛️ I’m currently working on improving my Frontend Web Development Skills.
+
+- 💬 I’m looking for help with *React*.
+
 - 💬 Ask me about *Web Dev*
 
 - 📫 How to reach me *omkargurav1920@gmail.com*
@@ -22,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkargurav10&show_icons=true&locale=en" alt="omkargurav10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargurav10&" alt="omkargurav10" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargurav10&" alt="omkargurav10" /></p> -->
