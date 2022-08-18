@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="./img/Head-ai.png" height="100px">
+<!-- <img align ="center" src="./img/Head-ai.png" width="500"  > -->
 
 <h1 align="center">Hi , I'm Omkar Gurav</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
