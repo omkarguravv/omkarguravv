@@ -76,15 +76,18 @@
 <a href="">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
   </a>
+    &emsp;
 <a href="">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="">
-  </a>
+  </a>  &emsp;
 <a href="">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="">
+      &emsp;
   </a>
 <a href="">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="">
   </a>
+    &emsp;
 
 <p/>
 
@@ -94,30 +97,38 @@
 <a href="">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="">
   </a>
+    &emsp;
 <a href="">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
   </a>
+    &emsp;
 <a href="">
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="">
   </a>
+    &emsp;
 <a href="">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="">
   </a>
+    &emsp;
 <a href="">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="">
   </a>
+    &emsp;
 <p/>
 <h3 align="center">Tools & Software:</h3>
 <p>
 <a href="">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="">
   </a>
+    &emsp;
 <a href="">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
   </a>
+    &emsp;
 <a href="">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="">
   </a>
+    &emsp;
 
 <p/>
 
