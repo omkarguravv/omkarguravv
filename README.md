@@ -5,7 +5,7 @@
 <h1 align="center">Hi , I'm Omkar Gurav</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🌱 I’m currently learning *React & Exploring Open Source*
+<!-- - 🌱 I’m currently learning *React & Exploring Open Source* -->
 
 - ⚛️ I’m currently working on improving my Frontend Web Development Skills.
 
@@ -14,6 +14,9 @@
 - 💬 Ask me about *Web Devevelopment*
 
 - 📫 How to reach me *omkargurav1920@gmail.com*
+
+
+
 
 
 
@@ -144,32 +147,32 @@
 #### 📈 My GitHub Statistics
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=omkarguravv&show_icons=true&count_private=true&hide_title=true&theme=dracula)
 
----
-#### </p> Language Used
+<!-- --- -->
+<!-- #### </p> Language Used
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarguravv&langs_count=6&layout=compact&theme=dracula" />
-</a>
+</a> -->
 
----
+<!-- --- -->
 
 
 
 <!--START_SECTION:waka-->
 
-```text
+<!-- ```text
 JavaScript   8 hrs 17 mins   █████████████████▓░░░░░░░   70.19 %
 Java         2 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
 Bash         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-```
+``` -->
 
 <!--END_SECTION:waka-->
 
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=omkarguravv&label=Profile%20views&color=0e75b6&style=flat" alt="omkarguravv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarguravv&label=Profile%20views&color=0e75b6&style=flat" alt="omkarguravv" /> </p>
 
 ---
